@@ -1,0 +1,213 @@
+#contenedor
+{
+    width: 800px;
+    height: 700px;
+    background-color: darkred;
+    margin: auto;
+}
+h1
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: auto;
+}
+#oreja1
+{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(87, 60, 19);
+    display: inline-block;
+    position: relative;
+    left: -10px;
+    top: -30px;
+    border-radius: 100%;
+}
+#oreja1-1
+{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(223, 161, 68);
+    position: relative;
+    left: 18px;
+    top: 15px;
+    border-radius: 100px;
+}
+#oreja2
+{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(87, 60, 19);
+    display: inline-block;
+    position: relative;
+    left: 110px;
+    top: -135px;
+    border-radius: 100%;
+}
+#oreja2-1
+{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(223, 161, 68);
+    position: relative;
+    left: 5px;
+    top: 18px;
+    margin: auto;
+    border-radius: 100%;
+}
+#cabeza{
+    width: 200px; /*ancho*/
+    height: 200px; /*alto*/
+    background-color: rgb(87, 60, 19);
+    position: relative;/*dentro del contenedor*/
+    top: 40px;
+    margin: auto;
+    border-radius: 100%;
+
+}
+#ojo1{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(252, 250, 249);
+    position: absolute;
+    left: 35px;
+    top: 50px;
+    margin: auto;
+    border-radius: 100%;
+}
+#ojo1-1{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(10, 10, 9);
+    position: absolute;
+    left: 48px;
+    top: 70px;
+    margin: auto;
+    border-radius: 100%;
+}
+#ojo2{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 254, 252);
+    position: absolute;
+    left: 110px;
+    top: 50px;
+    margin: auto;
+    border-radius: 100%;
+}
+#ojo2-1{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(8, 8, 6);
+    position: absolute;
+    left: 122px;
+    top: 70px;
+    margin: auto;
+    border-radius: 100%;
+}
+#nariz{
+    width: 25px;
+    height: 20px;
+    background-color: rgb(104, 175, 22);
+    position: absolute;
+    left: 88px;
+    top: 95px;
+    margin: auto;
+    border-radius: 100%;
+}
+#boca{
+    width: 60px;
+    height: 35px;
+    background-color: #8A4613;
+    position: absolute;
+    left: 75px;
+    top: 125px;
+    margin: auto;
+    border-radius: 100%;
+}
+#cuerpo{
+    width: 300px; /*ancho*/
+    height: 300px; /*alto*/
+    background-color: rgb(87, 60, 19);
+    
+    position: relative;/*dentro del contenedor*/
+    margin: auto;
+    border-radius: 100%;
+}
+#pancita{
+    width: 200px; /*ancho*/
+    height: 200px; /*alto*/
+    background-color: rgb(221, 155, 56);   
+    position: relative;/*dentro del contenedor*/
+    top: 50px;
+    margin: auto;
+    border-radius: 100%;
+}
+#caja4
+{
+    width: 80px;
+    height: 80px;
+    background-color: #DC1824;
+    position: relative;
+    left: 60px;
+    top: 50px;
+    transform: rotate(45deg);
+}
+#caja4-1
+{
+    width: 80px;
+    height: 80px;
+    background-color: #DC1824;
+    position: relative;
+    left: 0px;
+    top: -45px;
+    border-radius: 100px; /*borde circulo*/
+}
+#caja4-2
+{
+    width: 80px;
+    height: 80px;
+    background-color: #DC1824;
+    position: relative;
+    left: -40px;
+    top: -80px;
+    border-radius: 100px; /*borde circulo*/
+}
+#mano1{
+    width: 120px;
+    height: 100px;
+    background-color: rgb(87, 60, 19);
+    display: inline-block;
+    position: absolute;
+    left: -10px;
+    top: 55px;
+    border-radius: 100%;
+}
+#mano2{
+    width: 120px;
+    height: 100px;
+    background-color: rgb(87, 60, 19);
+    display: inline-block;
+    position: relative;
+    left: 190px;
+    top: -145px;
+    border-radius: 100%;
+}
+#patita1{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(87, 60, 19);
+    display: inline-block;
+    position: relative;
+    left: -140px;
+    top: -2px;
+    border-radius: 100%;
+}
+#patita2{
+    width: 100px;
+    height: 100px;
+    background-color:rgb(87, 60, 19);
+    display: inline-block;
+    position: relative;
+    left: 225px;
+    top: -115px;
+    border-radius: 100%;
+}
